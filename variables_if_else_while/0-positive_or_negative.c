@@ -2,8 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - This the entry point of the code
- *
+ *main - This the entry point of the code
  * Return - 0 Successful
  */
 int main(void)
