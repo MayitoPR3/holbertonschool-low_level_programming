@@ -1,12 +1,13 @@
 #include <stdio.h>
 
 /**
- *main-
- *
+ *main- entry code
+ * Return 0 (Success)
  */
+
 int main(void)
 {
-	char alphabet ='a';
+	char alphabet = 'a';
 	while (alphabet <= 'z')
 	{
 		putchar (alphabet);
