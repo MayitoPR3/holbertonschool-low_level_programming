@@ -2,8 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main - This the entry point of the code
- * Return - 0 Successful
+ *main - Entry point
+ *
+ * Return - Always 0 (Successful)
  */
 int main(void)
 {
