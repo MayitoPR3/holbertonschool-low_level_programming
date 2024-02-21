@@ -1,6 +1,6 @@
-#include"main.h"
+#include "main.h"
 /**
- * Main- Print _putchar
+ *main- Print _putchar
  * Return: Always 0
  */
 int main(void)
