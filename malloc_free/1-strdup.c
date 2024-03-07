@@ -5,7 +5,7 @@
  * @str: string
  * Return: Null if str equals NULL
  */
-char *_strdup(char *str);
+char *_strdup(char *str)
 {
 	char *strout;
 	unsigned int j, m;
