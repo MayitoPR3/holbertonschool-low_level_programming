@@ -1,5 +1,4 @@
 #include "main.h"
-<<<<<<< HEAD
 #include <stdlib.h>
 /**
  * create_array - creates an array
@@ -25,8 +24,3 @@ char *create_array(unsigned int size, char c)
 
 	return (jm);
 }
-
-=======
-/**
- *
->>>>>>> refs/remotes/origin/main
