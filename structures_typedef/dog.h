@@ -1,13 +1,17 @@
-#include<stdio.h>
+#include <stdio.h>
+#include <string.h>
 /**
- * struct dog - Structure for dog information
- *
+ * struct dog - information about the dog
+ * @name: dog name
+ * @age: dog age
+ * @owner: name of the owner
  * Return: Always 0
  */
-struct dog {
-  char *name;
-  float age;
-  char *owner;
-};
+typedef struct dog
+{
+char *name;
+float age;
+char *owner;
+}
+dog;
 
-typedef struct dog dog;
