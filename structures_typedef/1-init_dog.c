@@ -1,5 +1,4 @@
 #include "dog.h"
-#include <stdio.h>
 /**
  * init_dog - initializes the variable
  * @d: variable
@@ -17,4 +16,3 @@ void init_dog(struct dog *d, char *name, float age, char *owner)
 	d->owner = owner;
 	}
 }
-
