@@ -1,3 +1,5 @@
+#ifndef DOG_H
+#define DOG_H
 #include <stdio.h>
 #include <string.h>
 /**
@@ -14,4 +16,4 @@ float age;
 char *owner;
 }
 dog;
-
+#endif
