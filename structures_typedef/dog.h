@@ -9,7 +9,7 @@
  * @owner: name of the owner
  * Return: Always 0
  */
-typedef struct dog
+typedef struct dog dog_t
 {
 char *name;
 float age;
